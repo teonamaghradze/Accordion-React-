@@ -1,0 +1,32 @@
+.accordion-item-container {
+  background-color: rgb(234, 214, 253);
+  padding: 3rem;
+  margin-top: 2rem;
+  border-radius: 0.5rem;
+}
+
+.accordion-item-container:hover {
+  background-color: rgb(245, 242, 247);
+  cursor: pointer;
+  transition: ease-out 0.3s;
+}
+
+.arrow-icon {
+  width: 2rem;
+}
+
+.question-arrow-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+.answer {
+  margin-top: 2rem;
+  font-size: 1.8rem;
+  line-height: 1.6;
+}
