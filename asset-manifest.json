@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accordion-react-/static/css/main.80db0be5.css",
+    "main.js": "/accordion-react-/static/js/main.43092774.js",
+    "index.html": "/accordion-react-/index.html",
+    "static/media/chevron-down-outline.svg": "/accordion-react-/static/media/chevron-down-outline.8261387b46a4e157bdf658369adba2ce.svg",
+    "static/media/chevron-up-outline.svg": "/accordion-react-/static/media/chevron-up-outline.99c0a5983627e2e09bdc95260cab4070.svg",
+    "main.80db0be5.css.map": "/accordion-react-/static/css/main.80db0be5.css.map",
+    "main.43092774.js.map": "/accordion-react-/static/js/main.43092774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80db0be5.css",
+    "static/js/main.43092774.js"
+  ]
+}
